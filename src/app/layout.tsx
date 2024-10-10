@@ -13,6 +13,19 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+       <head>
+        {/* Import Map */}
+        {/* <script type="importmap">
+          {`
+          {
+            "imports": {
+              "three": "https://cdn.jsdelivr.net/npm/three@0.161.0/build/three.module.js",
+              "jsm/": "https://cdn.jsdelivr.net/npm/three@0.161.0/examples/jsm/"
+            }
+          }
+          `}
+        </script> */}
+      </head>
       <body>{children}</body>
     </html>
   )

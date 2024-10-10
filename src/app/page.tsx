@@ -1,17 +1,15 @@
 import Navbar from "@/components/navbar";
 import Image from "next/image";
 import bgImage from "@/assets/bg-image.jpg";
+import ThreeJSComponent from "@/components/ThreeJSComponent";
 
 export default function Home() {
   return (
     <div className="relative h-screen w-screen overflow-hidden">
-      <Image
-        src={bgImage}
-        layout="fill"
-        objectFit="cover"
-        alt="Background"
-        className="z-0"
-      />
+      <div className="absolute inset-0 z-0">
+        <ThreeJSComponent />
+      </div>
+      
       <div className="absolute inset-0 bg-gradient-to-t from-slate-900/30 z-10">
           <Navbar />
         <div className="flex justify-center mt-40 h-full">
