@@ -12,7 +12,11 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
-       animation: {
+      fontFamily: {
+        poppins: ['Poppins', 'sans-serif'],
+        lobster: ['Lobster', 'cursive'],
+      },
+      animation: {
         fadeIn: 'fadeIn 1.5s ease-in-out',
         pulse: 'pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite',
       },
@@ -30,4 +34,5 @@ const config: Config = {
   },
   plugins: [],
 };
+
 export default config;
