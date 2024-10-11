@@ -1,0 +1,11 @@
+Model Information:
+* title:	Starry night sky HDRi background photosphere
+* source:	https://sketchfab.com/3d-models/starry-night-sky-hdri-background-photosphere-b344e9ef1c3246169d0a312188e213fc
+* author:	Aliaksandr.melas (https://sketchfab.com/alexandr.melas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Starry night sky HDRi background photosphere" (https://sketchfab.com/3d-models/starry-night-sky-hdri-background-photosphere-b344e9ef1c3246169d0a312188e213fc) by Aliaksandr.melas (https://sketchfab.com/alexandr.melas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
